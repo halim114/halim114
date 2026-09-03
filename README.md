@@ -5,7 +5,7 @@
 
 # Hi, I'm Halim 
 
-### IT Student • Cybersecurity Enthusiast • Developer
+### IT Student • Cybersecurity & Information Systems
 
 I'm an **IT student at the Higher Institute of Technological Studies of Rades (ISET Rades)** with a growing interest in **cybersecurity, Linux, networking, and software development**.
 
