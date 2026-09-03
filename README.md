@@ -67,7 +67,7 @@ I'm passionate about technology, learning how systems work, and continuously dev
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 * 🇹🇳 **Arabic** — Native
 * 🇬🇧 **English** — C1
