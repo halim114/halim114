@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Halim%20Gammoudi&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
-# Hi, I'm Halim 💫
+# Hi, I'm Halim 
 
 ### IT Student • Cybersecurity Enthusiast • Developer
 
@@ -69,10 +69,10 @@ I'm passionate about technology, learning how systems work, and continuously dev
 
 ## 🌍 Languages
 
-🇹🇳 **Arabic** — Native
-🇬🇧 **English** — C1
-🇫🇷 **French** — B2
-🇩🇪 **German** — A1
+* 🇹🇳 **Arabic** — Native
+* 🇬🇧 **English** — C1
+* 🇫🇷 **French** — B2
+* 🇩🇪 **German** — A1
 
 ---
 
