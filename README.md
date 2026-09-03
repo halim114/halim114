@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Halim%20Gammoudi&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
-# Hi, I'm Halim 👋
+# Hi, I'm Halim 💫
 
 ### IT Student • Cybersecurity Enthusiast • Developer
 
@@ -13,32 +13,30 @@ I'm passionate about technology, learning how systems work, and continuously dev
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-* 🎓 IT Student at **ISET Rades**
-* 🔐 Aspiring **Cybersecurity Professional**
-* 🐧 Interested in **Linux & System Administration**
-* 🌐 Interested in **Networking & Infrastructure**
-* 💻 Learning **Web & Backend Development**
-* 🚀 Always learning and experimenting with new technologies
+*  IT Student at **ISET Rades**
+*  Aspiring **Cybersecurity Engineer**
+*  Interested in **Linux & System Administration**
+*  Interested in **Networking & Infrastructure**
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
-### 💻 Development
+###  Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,php,mysql,git,github,vscode" />
 </p>
 
-### 🐧 Systems & Infrastructure
+###  Systems & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
-### 🎨 Creative Tools
+###  Creative Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop,premiere" />
@@ -46,26 +44,26 @@ I'm passionate about technology, learning how systems work, and continuously dev
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,git,github" />
 </p>
 
-* 🔐 Cybersecurity fundamentals
-* 🌐 Networking
-* 🐧 Linux & System Administration
-* 🗄️ Databases & Backend Development
-* 🔧 Git & GitHub
-* ☁️ Infrastructure & Cloud Technologies
+*  Cybersecurity fundamentals
+*  Networking
+*  Linux & System Administration
+*  Databases & Backend Development
+*  Git & GitHub
+*  Infrastructure & Cloud Technologies
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Higher Institute of Technological Studies of Rades (ISET Rades)**
 
-💻 Information Technology
+ Information Technology
 
 ---
 
@@ -78,7 +76,7 @@ I'm passionate about technology, learning how systems work, and continuously dev
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=halim114&show_icons=true&hide_border=true&theme=transparent" />
@@ -90,7 +88,7 @@ I'm passionate about technology, learning how systems work, and continuously dev
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/halim-gammoudi/">
